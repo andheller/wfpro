@@ -15,7 +15,7 @@ function Footer(props) {
     >
       <Container>
         <div className="FooterComponent__inner">
-          <div className="copyright left">{props.copyright}</div>
+          <div className="copyright left">© 2021 White Folder Production</div>
         </div>
       </Container>
     </Section>
