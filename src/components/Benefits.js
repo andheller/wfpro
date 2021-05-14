@@ -30,27 +30,27 @@ function Benefits(props) {
                 title: "Backups",
                 body:
                   "When disaster strikes, we’ll be ready. We keep 90 days of backups as a standard and can do more on request.",
-                image: "https://uploads.divjoy.com/undraw-fish_bowl_uu88.svg",
+                image: "https://raw.githubusercontent.com/andheller/wfpro/4dd44bc27022592e1b872d181b9cdfc67147634b/src/assets/undraw_cloud_files_wmo8.svg",
               },
               {
                 title: "Support",
                 body:
                   "We are always here to help solve any (website) problem.",
-                image: "https://uploads.divjoy.com/undraw-directions_x53j.svg",
+                image: "https://raw.githubusercontent.com/andheller/wfpro/80e4864a826d69f42c944bae9c91e7ae6a5dc2bf/src/assets/undraw_done_a34v.svg",
               },
               {
                 title: "Updates",
                 body:
                   "We keep your website secure, updated and free of  bugs.",
                 image:
-                  "https://uploads.divjoy.com/undraw-stability_ball_b4ia.svg",
+                  "https://raw.githubusercontent.com/andheller/wfpro/80e4864a826d69f42c944bae9c91e7ae6a5dc2bf/src/assets/undraw_website_builder_bxki.svg",
               },
               {
                 title: "Advice",
                 body:
                   "We want you to get the most out of your website. We can answer any of your website questions. If we don't know the answer, we'll figure it out. ",
                 image:
-                  "https://uploads.divjoy.com/undraw-personal_settings_kihd.svg",
+                  "https://raw.githubusercontent.com/andheller/wfpro/80e4864a826d69f42c944bae9c91e7ae6a5dc2bf/src/assets/undraw_browsing_urt9.svg",
               },
             ]}
           />
