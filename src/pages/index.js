@@ -26,7 +26,7 @@ function IndexPage(props) {
         subtitle=""
         buttonText="Get Started"
         buttonColor="primary"
-        image="https://uploads.divjoy.com/undraw-japan_ubgk.svg"
+        image="https://raw.githubusercontent.com/andheller/wfpro/80e4864a826d69f42c944bae9c91e7ae6a5dc2bf/src/assets/undraw_heatmap_uyye.svg"
         buttonOnClick={(e) => {
            {e.preventDefault(); window.artibotApi.trigger('bot:expand'); return false; }
         }}
@@ -37,7 +37,7 @@ function IndexPage(props) {
         size="md"
         bgImage=""
         bgImageOpacity={1}
-        image="https://uploads.divjoy.com/undraw-chatting_2yvo.svg"
+        image="https://raw.githubusercontent.com/andheller/wfpro/80e4864a826d69f42c944bae9c91e7ae6a5dc2bf/src/assets/undraw_online_media_62jb.svg"
       />
       <Benefits
         bg="white"
