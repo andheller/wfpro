@@ -22,9 +22,9 @@ function MyApp({ Component, pageProps }) {
         size="sm"
         bgImage=""
         bgImageOpacity={1}
-        description="A short description of what you do here"
-        copyright="© 2020 White Folder Production"
-        logo="https://uploads.divjoy.com/logo.svg"
+        description="We make clear websites to grow your business."
+        copyright="© 2021 White Folder Production"
+        logo=""
       />
     </>
   );
