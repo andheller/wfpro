@@ -4,16 +4,11 @@ import NavbarCustom from "components/NavbarCustom";
 import Footer from "components/Footer";
 import "util/analytics.js";
 
+
 function MyApp({ Component, pageProps }) {
   return (
     <>
-      <NavbarCustom
-        bg="white"
-        variant="light"
-        expand="md"
-        logo="https://uploads.divjoy.com/logo.svg"
-      />
-
+    
       <Component {...pageProps} />
 
       <Footer
