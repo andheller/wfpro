@@ -18,7 +18,7 @@ function MyApp({ Component, pageProps }) {
         bgImage=""
         bgImageOpacity={1}
         description="We make clear websites to grow your business."
-        copyright="© 2021 White Folder Production"
+        copyright="© 2022 White Folder Production"
         logo=""
       />
     </>
